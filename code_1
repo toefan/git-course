@@ -7,3 +7,6 @@ public void getNumber(int in){
 public void getText(int in){
   printline("Hello Text");
 }
+
+
+void blabls{}
