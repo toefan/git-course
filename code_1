@@ -1,3 +1,7 @@
 public void getNumber(int in){
   printline("Hello World");
 }
+
+public void getText(int in){
+  printline("Hello Text");
+}
